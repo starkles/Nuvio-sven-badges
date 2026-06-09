@@ -3,7 +3,7 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-4k.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-4k.svg",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
@@ -16,7 +16,7 @@
     {
       "groupId": "gr",
       "id": "r-1080",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-1080p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-1080p.svg",
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
@@ -29,7 +29,7 @@
     {
       "groupId": "gr",
       "id": "r-720",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-720p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-720p.svg",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
@@ -42,7 +42,7 @@
     {
       "groupId": "gr",
       "id": "r-576",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-576p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-576p.svg",
       "isEnabled": true,
       "name": "576p",
       "pattern": "(?i)\\b576[pi]?\\b",
@@ -55,7 +55,7 @@
     {
       "groupId": "gr",
       "id": "r-480",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-480p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-480p.svg",
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)\\b480[pi]?\\b",
@@ -68,7 +68,7 @@
     {
       "groupId": "gr",
       "id": "r-360",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-360p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-360p.svg",
       "isEnabled": true,
       "name": "360p",
       "pattern": "(?i)\\b360[pi]?\\b",
@@ -81,7 +81,7 @@
     {
       "groupId": "gr",
       "id": "r-240",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-240p.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-240p.svg",
       "isEnabled": true,
       "name": "240p",
       "pattern": "(?i)\\b240[pi]?\\b",
@@ -94,7 +94,7 @@
     {
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-remux.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-remux.svg",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\b(?:bd|uhd)?remux\\b",
@@ -107,7 +107,7 @@
     {
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-bluray.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-bluray.svg",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|\\bb[dr][-_. ]?rip\\b|\\bbd(?:25|50|r|mv)?\\b))(?!.*\\b(?:bd|uhd)?remux\\b)",
@@ -120,7 +120,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-webdl.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-webdl.svg",
       "isEnabled": true,
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|web(?![-_. ]?rip)\\b)",
@@ -133,7 +133,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-webrip.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-webrip.svg",
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)^(?=.*\\brip\\b|.*\\bweb[-_. ]?rip\\b|.*\\bhd[-_. ]?rip\\b)(?!.*\\b(?:bd|br)[-_. ]?rip\\b)(?!.*\\bdvd[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?tc[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?ts[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?cam[-_. ]?rip\\b)(?!.*\\btc\\b)(?!.*\\btelecine\\b)(?!.*\\bhdtc\\b)(?!.*\\bts\\b)(?!.*\\btelesync\\b)(?!.*\\bhdts\\b)",
@@ -146,7 +146,7 @@
     {
       "groupId": "gq",
       "id": "q-hdtv",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-HDTV.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-HDTV.svg",
       "isEnabled": true,
       "name": "HDTV",
       "pattern": "(?i)\\b(?:hdtv|pdtv|sdtv|dsr)\\b",
@@ -159,7 +159,7 @@
     {
       "groupId": "gq",
       "id": "q-dvdscr",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-DVDScr.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-DVDScr.svg",
       "isEnabled": true,
       "name": "DVDScr",
       "pattern": "(?i)\\bdvd[\\s._-]?scr(?:eener)?\\b",
@@ -172,7 +172,7 @@
     {
       "groupId": "gq",
       "id": "q-dvdrip",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-DVDRip.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-DVDRip.svg",
       "isEnabled": true,
       "name": "DVDRip",
       "pattern": "(?i)^(?=.*\\bdvd[\\s._-]?rip\\b)(?!.*\\bdvd[\\s._-]?scr)",
@@ -185,7 +185,7 @@
     {
       "groupId": "gq",
       "id": "q-cam",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-CAM.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-CAM.svg",
       "isEnabled": true,
       "name": "CAM",
       "pattern": "(?i)^(?=.*(?:\\b(?:hd[-_. ]?)?cam(?:[-_. ]?rip)?\\b|\\b(?:hd[-_. ]?)?ts(?:[-_. ]?rip)?\\b|\\btelesync\\b|\\bp(?:re[\\s._-]?)?dvd(?:rip)?\\b|\\b(?:hd[-_. ]?)?tc(?:[-_. ]?rip)?\\b|\\btelecine\\b|(?<!dvd)(?<!dvd[._-])\\bscr(?:eener)?\\b))(?!.*\\bdvd[\\s._-]?scr)",
@@ -198,7 +198,7 @@
     {
       "groupId": "gq",
       "id": "q-r5",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-R5.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-R5.svg",
       "isEnabled": true,
       "name": "R5",
       "pattern": "(?i)\\br5\\b",
@@ -211,7 +211,7 @@
     {
       "groupId": "gv",
       "id": "v-seadex",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-SeaDex.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-SeaDex.svg",
       "isEnabled": true,
       "name": "SeaDex",
       "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
@@ -224,7 +224,7 @@
     {
       "groupId": "gv",
       "id": "a-dv",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-DV.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-DV.svg",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)(?:\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b|⁣)",
@@ -237,7 +237,7 @@
     {
       "groupId": "gv",
       "id": "v-hdr10p",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-HDR10Plus.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-HDR10Plus.svg",
       "isEnabled": true,
       "name": "HDR10+",
       "pattern": "(?i)(?:^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*⁣)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))|⁤)",
@@ -250,7 +250,7 @@
     {
       "groupId": "gv",
       "id": "v-hdr",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/white-HDR.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-HDR.svg",
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*[⁣⁤])(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))(?:(?=.*\\bhdr(?!ip))|(?=.*⁡)|(?=.*(?:(?:2160p?|\\buhd\\b|\\b4k\\b)[\\s\\S]*(?:bd|uhd)?remux|(?:bd|uhd)?remux[\\s\\S]*(?:2160p?|\\buhd\\b|\\b4k\\b)))(?!.*\\bsdr\\b)(?!.*⁢))",
@@ -263,7 +263,7 @@
     {
       "groupId": "gv",
       "id": "v-sdr",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-SDR.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-SDR.svg",
       "isEnabled": true,
       "name": "SDR",
       "pattern": "(?i)^(?!.*[⁣⁤⁡])(?!.*\\bhdr(?!ip))(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?:(?=.*(?:\\bsdr\\b|\\bhdtv\\b|web[-_. ]?rip|webrip|hd[-_. ]?rip|\\brip\\b|\\bdvdrip\\b|\\bb[dr][-_. ]?rip\\b|\\bblu[-_. ]?ray(?:rip)?\\b|\\bbd(?:25|50|r|mv)?\\b|\\b(?:bd|uhd)?remux\\b|\\bxvid\\b|\\bdivx\\b|\\bh264\\b|\\bavc\\b|\\bx265\\b|\\bhevc\\b|web[-_. ]?dl|webdl|web(?![-_. ]?rip)\\b))(?:(?!.*(?:(?:2160p?|\\buhd\\b|\\b4k\\b)[\\s\\S]*(?:bd|uhd)?remux|(?:bd|uhd)?remux[\\s\\S]*(?:2160p?|\\buhd\\b|\\b4k\\b)))|(?=.*\\bsdr\\b))|(?=.*⁢))",
@@ -276,7 +276,7 @@
     {
       "groupId": "gv",
       "id": "v-imax-e",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-IMAX-enhanced.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-IMAX-enhanced.svg",
       "isEnabled": true,
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\bimax[\\s._-]?enhanced\\b",
@@ -289,7 +289,7 @@
     {
       "groupId": "gv",
       "id": "v-imax",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-IMAX.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-IMAX.svg",
       "isEnabled": true,
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
@@ -302,7 +302,7 @@
     {
       "groupId": "gv",
       "id": "v-10bit",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-10bit.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-10bit.svg",
       "isEnabled": true,
       "name": "10bit",
       "pattern": "(?i)\\b10[\\s._-]?bit\\b",
@@ -315,7 +315,7 @@
     {
       "groupId": "gco",
       "id": "co-hevc",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-HEVC.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-HEVC.svg",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)\\b(?:hevc|h[\\s._-]?265|x265)\\b",
@@ -328,7 +328,7 @@
     {
       "groupId": "gco",
       "id": "co-h264",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-H264.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-H264.svg",
       "isEnabled": true,
       "name": "H.264",
       "pattern": "(?i)\\b(?:avc|h[\\s._-]?264|x264)\\b",
@@ -341,7 +341,7 @@
     {
       "groupId": "gco",
       "id": "co-av1",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-AV1.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-AV1.svg",
       "isEnabled": true,
       "name": "AV1",
       "pattern": "(?i)\\bav1\\b",
@@ -354,7 +354,7 @@
     {
       "groupId": "gco",
       "id": "co-xvid",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-XviD.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-XviD.svg",
       "isEnabled": true,
       "name": "XviD",
       "pattern": "(?i)\\b(?:xvid|divx)\\b",
@@ -367,7 +367,7 @@
     {
       "groupId": "ga",
       "id": "a-th",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-TrueHD.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-TrueHD.svg",
       "isEnabled": true,
       "name": "TrueHD",
       "pattern": "(?i)(?:\\btrue[ ._-]?hd\\b|^(?=.*\\batmos\\b)(?=.*\\bremux\\b)(?!.*\\b(?:true[ ._-]?hd|ddp|dd\\+|e-?ac3|eac3)\\b).+$)",
@@ -380,7 +380,7 @@
     {
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-Atmos.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-Atmos.svg",
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)^(?!.*\\btrue[ _\\.\\-]?hd\\b).*\\batmos\\b.*$",
@@ -393,7 +393,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsx",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-dtsx.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-dtsx.svg",
       "isEnabled": true,
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
@@ -406,7 +406,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsma",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-dtshdma.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-dtshdma.svg",
       "isEnabled": true,
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
@@ -419,7 +419,7 @@
     {
       "groupId": "ga",
       "id": "a-dtshd",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-dtshd.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-dtshd.svg",
       "isEnabled": true,
       "name": "DTS-HD",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
@@ -432,7 +432,7 @@
     {
       "groupId": "ga",
       "id": "a-dts",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-dts.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-dts.svg",
       "isEnabled": true,
       "name": "DTS",
       "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
@@ -445,7 +445,7 @@
     {
       "groupId": "ga",
       "id": "a-dp",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-DDPLUS.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-DDPLUS.svg",
       "isEnabled": true,
       "name": "DD+",
       "pattern": "(?i)^(?=.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
@@ -458,7 +458,7 @@
     {
       "groupId": "ga",
       "id": "a-dd",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-DD.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-DD.svg",
       "isEnabled": true,
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
@@ -471,7 +471,7 @@
     {
       "groupId": "gc",
       "id": "ch-71",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-71.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-71.svg",
       "isEnabled": true,
       "name": "7.1",
       "pattern": "[^0-9][7-8][. ][01](?![0-9])",
@@ -484,7 +484,7 @@
     {
       "groupId": "gc",
       "id": "ch-61",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-61.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-61.svg",
       "isEnabled": true,
       "name": "6.1",
       "pattern": "(?i)(?=.*[^0-9]6[ .][0-1]\\b)(?!.*[^0-9][7-8][ .][0-1]\\b)(?!.*[^0-9]5[ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]\\b|\\\\b(Stereo|Mono)\\\\b)",
@@ -497,7 +497,7 @@
     {
       "groupId": "gc",
       "id": "ch-51",
-      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@v1/badges/grey-51.svg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/grey-51.svg",
       "isEnabled": true,
       "name": "5.1",
       "pattern": "^(?=.*[^0-9]5[. ][01](?![0-9]))(?!.*[^0-9][7-8][. ][01](?![0-9]))",
